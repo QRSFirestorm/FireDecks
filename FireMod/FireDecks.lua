@@ -19,7 +19,7 @@ SMODS.Back{
         name = 'Soul Deck',
         text = {
             "Start with a {C:spectral,T:c_Soul}Soul{} card",
-            "Start with {C:red}-25{} dollars"
+            "Start with {C:red}-$25{}"
         }
     },
     key = "souldeck",
